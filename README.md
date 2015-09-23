@@ -1,5 +1,5 @@
 # examshell02
-Cet examshell est destine aux gens voulant s'entrainer pour l'exam final, des exercices seront rajoutes au fur et a mesur.
+Cet examshell est destine aux gens voulant s'entrainer pour l'exam final, des exercices seront rajoutes au fur et a mesure.
 Dans cet exam vous devrez savoir utiliser les outils suivants :
 - ft_putstr
 - ft_strlen
