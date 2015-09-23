@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------------------------------
+		Practice_mod : Examshell 02 // Exercice 04 // sub : atoi
+------------------------------------------------------------------------------------------------------
+		Consigne :
+___________________________________
+Exercice 04: atoi
+___________________________________
+-Dossier de rendu : ex04/
+-Fichiers a rendre : ft_atoi.c
+-Fonction autorisees : n/a
+-rq : n/a
+___________________________________
+~Écrire une fonction qui convertit une chaîne en un entier (type int) et le retourne.
+~Marche comme la fonction standard atoi(const char *str), voir le man.
+-La fonction doit être prototypée de la maniere suivante : int   ft_atoi(const char *str);
+------------------------------------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------------------
+		Practice_mod : Examshell 02 // Exercice 01 // sub : Display char nbr
+------------------------------------------------------------------------------------------------------
+		Consigne :
+___________________________________
+Exercice 01: ft_strlen
+___________________________________
+-Dossier de rendu : ex01/
+-Fichier a rendre : ft_putstr.c, ft_strlen.c, main.c
+-Fonction autorisee : write
+-rq : n/a
+___________________________________
+~Ecris un programme qui, quand il recoit un parametre, affiche le nombre de caractere entre dans
+le ./a.out
+-Votre fonction ft_strlen devra etre prototypee de la maniere suivante : int	ft_strlen(char *str);
+-Si le programme recoit plus ou moins d'une entree, il affichera "Erreur"
+___________________________________
+~Exemple :
+
+./a.out quarantedeux
+~12
+
+./a.out centtrentecinqueetdix23
+~23
+
+./a.out des fret
+~Erreur
+
+./a.out
+~Erreur
+------------------------------------------------------------------------------------------------------

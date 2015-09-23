@@ -1,0 +1,15 @@
+------------------------------------------------------------------------------------------------------
+		Practice_mod : Examshell 02 // Exercice 02 // sub : makefile
+------------------------------------------------------------------------------------------------------
+Consigne :
+___________________________________
+Exercice 02: Makefile
+___________________________________
+-Dossier de rendu : ex02/
+-Fichier a rendre : Makefile
+-Fonction autorisee : n/a
+-rq : N'oubliez pas de prendre en compte les dossiers source
+___________________________________
+~Cree un Makefile qui compilera tout les fichier .c se trouvant dans le dossier src/. Ce Makefile ne
+devra pas afficher les commandes entree dans le shell.
+------------------------------------------------------------------------------------------------------

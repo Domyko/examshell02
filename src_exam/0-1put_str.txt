@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------------------------------
+		Practice_mod : Examshell 02 // Exercice 00 // sub : Display string
+------------------------------------------------------------------------------------------------------
+		Consigne :
+___________________________________
+Exercice 00: ft_putstr
+___________________________________
+-Dossier de rendu : ex00/
+-Fichiers a rendre : ft_putstr.c
+-Fonction autorisee : write
+-rq : n/a
+___________________________________
+~Ecris la fonction ft_putstr c'est une fonction de que tu devrais
+connaitre depuis de le debut de ta piscine.
+-Elle devra etre prototypee de la maniere suivante : void	ft_putstr (char *str);
+___________________________________
+------------------------------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------------------------------
+		Practice_mod : Examshell 02 // Exercice 03 // sub : libft.a
+------------------------------------------------------------------------------------------------------
+		Consigne :
+___________________________________
+Exercice 03: libft.a
+___________________________________
+-Dossier de rendu : ex03/
+-Fichier a rendre : libft.a
+-Fonction autorisee : *
+-rq : Cet exercice est important car vous allez recuperer votre lib pour les prochains exercices
+___________________________________
+~Fait ta librairie libft.a qui contient toutes les fonctions que tu connais pour les utiliser dans les
+prochains exercices. Il faut aussi penser a optimiser le temps de compilation avec "ranlib"
+~Fonctions a inclure obligatoirement : ft_putchar, ft_putstr, ft_swap, ft_strlen
+------------------------------------------------------------------------------------------------------

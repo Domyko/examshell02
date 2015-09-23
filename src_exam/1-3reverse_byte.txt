@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------
+		Practice_mod : Examshell 02 // Exercice 05 // sub : reverse byte
+------------------------------------------------------------------------------------------------------
+		Consigne :
+___________________________________
+Exercice 05: Reverse byte
+___________________________________
+-Dossier de rendu : ex05/
+-Fichier a rendre : reverse_bits.c
+-Fonction autorisee : n/a
+-rq : n/a
+___________________________________
+~Écrire une fonction qui prend un octet, l'inverse bit à bit (comme dans l'exemple) et retourne
+le résultat.
+-Votre fonction doit être déclarée comme cela : unsigned char	reverse_bits(unsigned char octet);
+___________________________________
+Exemple :
+  1 byte
+_____________
+ 0100  0001
+     ||
+     \/
+ 1000  0010
+------------------------------------------------------------------------------------------------------
