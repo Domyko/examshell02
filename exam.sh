@@ -6,14 +6,14 @@
 #    By: cgully <cgully@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/09/19 19:56:41 by cgully            #+#    #+#              #
-#    Updated: 2015/09/23 06:51:09 by cgully           ###   ########.fr        #
+#    Updated: 2015/09/25 14:12:57 by cgully           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 #!/bin/bash
 cd ..
 mkdir exam_result
-cd exam2
+cd exam
 date
 make start
 while true; do
